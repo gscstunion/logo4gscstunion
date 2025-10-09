@@ -3,4 +3,4 @@
 
 ライセンス © GSC学生連合
 
-<img src="https://raw.githubusercontent.com/gscstunion/logo4gscstunion/main/logo/学連ロゴ２_2048.jpg" alt="Leaflet" />
+<img src="https://raw.githubusercontent.com/gscstunion/logo4gscstunion/refs/heads/main/logo/jpg/%E5%AD%A6%E9%80%A3%E3%83%AD%E3%82%B4%EF%BC%92_2048.jpg" alt="Leaflet" />
